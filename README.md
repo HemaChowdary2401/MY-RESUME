@@ -25,10 +25,11 @@
 - Address    : Thiruchanur 
 ### **Programming Skills**
 - Basics of - c,c++,Java,python,html
-### **strengths and weaknesses**
+### **strengths**
 - Hard working <br>
 - self- motivated <br>
-- team player < br>
+- team player <br>
+## **Weaknesses**
 - laziness <br>
 - emotional <br>
 ## **Hobbies**
