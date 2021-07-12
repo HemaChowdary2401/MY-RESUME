@@ -1,10 +1,5 @@
    # Resume
 # DAMA HEMA
-### Career Objective
-           To be a part of an 
-organization where I would use and enhance 
-my knowledge and talent for the development
- of both organization and myself.
 ### personal details
 - Name              : DamaHema <br>
 - father            : D.krishna murthy naidu<br>
@@ -15,7 +10,7 @@ my knowledge and talent for the development
 - mobile number     : 7569016128 <br>
 - mail id           : hemadama84@gmail.com <br>
 - Address           : 1-54,Ganganagunta village,
-tirupathi rural mandal ,chittoor district,517503.<br>
+tirupathi rural mandal<br>
 ### Educational details
 **Degree**
 - college name : SDHR Degree college<br>
@@ -52,10 +47,6 @@ tirupathi rural mandal ,chittoor district,517503.<br>
 ### Languages known
 -English<br>
 -telugu
-### Declaration
-       I hereby declare that 
-the details furnished above are true to
- the best of my knowledge and belief.
  
  
  ## DAMA HEMA
