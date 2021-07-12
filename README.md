@@ -1,10 +1,10 @@
    # Resume
 # DAMA HEMA
 ### Career Objective
-           To be a part of an organization where 
-    I would use and enhance my knowledge and
-   talent for the development of both organization
-   and myself.
+           To be a part of an organization
+ where I would use and enhance my knowledge 
+and talent for the development of both 
+organization and myself.
 ### personal details
 - Name              : DamaHema <br>
 - father            : D.krishna murthy naidu<br>
@@ -53,9 +53,9 @@ tirupathi rural mandal ,chittoor district,517503.<br>
 -English<br>
 -telugu
 ### Declaration
-       I hereby declare that the details furnished
- above are true to the best of my knowledge and 
- belief.
+       I hereby declare that the details 
+furnished above are true to the best of my
+ knowledge and belief.
  
  
  ## DAMA HEMA
